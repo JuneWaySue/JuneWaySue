@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://blog.csdn.net/sinat_39629323"><img height=14 src ="https://g.csdnimg.cn/static/logo/favicon32.ico"></img>七里香还是稻香</a>
-    <a href="https://user-images.githubusercontent.com/45711125/135013611-4c5d58da-bdac-4034-a93b-8d1c66899b53.jpg"><img height=14 src="https://github.com/JuneWaySue/JuneWaySue/blob/master/img/wechat.svg"></img>Python王者之路</a>
+    <a href="https://user-images.githubusercontent.com/45711125/135013611-4c5d58da-bdac-4034-a93b-8d1c66899b53.jpg"><img height=14 src="https://res.wx.qq.com/mpres/zh_CN/htmledition/weui-desktopSkin-common/svg/buildless/new_bg_logo_primary62947b.svg"></img>Python王者之路</a>
 </p>
 
 <p align="center">
