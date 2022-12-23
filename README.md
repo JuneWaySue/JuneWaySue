@@ -1,7 +1,7 @@
 <p align="center">
     <img class="avatar avatar-user width-full border color-bg-default" width=88 src="https://avatars.githubusercontent.com/u/45711125?v=4"></img>
     <h3 align="center">JuneWaySue</h2>
-    <p align="center">:wave:Hi there. I'm Juneway. A Python full-stack engineer from China.:smirk:</p>
+    <p align="center">:wave:Hi there. I'm Juneway. A Python full-stack engineer from Guang Dong, China.:smirk:</p>
 </p>
 
 <p align="center">
@@ -14,7 +14,8 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JuneWaySue&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true"></img>
+    <!-- &count_private=true&include_all_commits=true -->
+    <img src="https://github-readme-stats.vercel.app/api?username=JuneWaySue&show_icons=true&theme=radical&hide_title=true&hide_border=true"></img>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
