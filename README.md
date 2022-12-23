@@ -1,9 +1,17 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneWaySue&show_icons=true&theme=radical)
+<p align="center">
+    <img width=88 src="https://avatars.githubusercontent.com/u/45711125?v=4"></img>
+    <h3 align="center">七里香还是稻香:heart:</h2>
+    <p align="center">A Python full-stack engineer from China.</p>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuneWaySue&repo=my_streamlit_app" />
-</a>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=JuneWaySue&theme=dracula&no-bg=true&no-frame=true"></img>
+</p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuneWaySue&repo=python_wechat_robot" />
-</a>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JuneWaySue&show_icons=true&theme=radical"></img>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneWaySue"></img>
+</p>
