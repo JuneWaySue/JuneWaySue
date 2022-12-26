@@ -1,7 +1,7 @@
 <p align="center">
     <img class="avatar avatar-user width-full border color-bg-default" width=88 src="https://avatars.githubusercontent.com/u/45711125?v=4"></img>
     <h3 align="center">JuneWaySue</h2>
-    <p align="center">:wave:Hi there. I'm Juneway. A Python full-stack engineer from Guang Dong, China.:smirk:</p>
+    <p align="center">:wave:Hi there. I'm Juneway. From Guang Dong, China. Aspire to be a Python full-stack engineer.:smirk:</p>
 </p>
 
 <p align="center">
