@@ -15,7 +15,7 @@
 
 <p align="center">
     <!-- &count_private=true&include_all_commits=true -->
-    <img src="https://github-readme-stats.vercel.app/api?username=JuneWaySue&show_icons=true&theme=radical&hide_title=true&hide_border=true"></img>
+    <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=JuneWaySue&show_icons=true&theme=radical&hide_title=true&hide_border=true"></img>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
